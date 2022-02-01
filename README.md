@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @remicolin, French Engineer
 - 👀 I’m interested in BlockChain
 - 🌱 I’m currently learning Solidity
-- 📫 How to reach me: colin.remi07@gmail.com
+- 📫 How to reach me: remi.colin.contact@gmail.com
