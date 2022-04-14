@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @remicolin, French Engineer
 - 👀 I’m interested in BlockChain development
-- 🌱 I’m currently learning Solidity, JavaScript and Brownie
 - 📫 How to reach me: remi.colin.contact@gmail.com
